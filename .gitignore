@@ -1,0 +1,9 @@
+# Ignore temp and build files
+Library/
+Logs/
+Temp/
+.vs/
+.vscode/
+Build/
+Builds/
+obj/
